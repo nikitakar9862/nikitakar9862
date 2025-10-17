@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Enhanced GitHub Profile README with Visual Elements -->
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:6a0dad&height=200&section=header&text=Nikita%20Kar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+</div>
 
-<!--
-**nikitakar9862/nikitakar9862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Second-year Computer Application student 
+- 💡 Passionate about **Backend**, **UI/UX Design**, and **Web Development**
+- 🌱 Always learning and exploring new tech stacks
+- 💬 Love contributing on open-source projects
+---
+
+![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitakar9862&show_icons=true&theme=radical)
+
+
+<h2><i>Opensource Badges🎖️</i></h2>
+
+---
+<a href="https://holopin.me/nikitakar9862" target="_blank">
+  <img src="https://holopin.me/nikitakar9862" alt="@nikitakar9862's Holopin badges" width="1000" height="350" />
+</a>
