@@ -10,7 +10,7 @@
 - 🎓 Second-year Computer Application student 
 - 💡 Passionate about **Backend**, **UI/UX Design**, and **Web Development**
 - 🌱 Always learning and exploring new tech stacks
-- 💬 Love contributing on open-source projects
+- 💬 Love contributing to open-source projects
 ---
 
 ![Nikita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitakar9862&show_icons=true&theme=radical)
